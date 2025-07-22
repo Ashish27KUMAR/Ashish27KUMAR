@@ -29,6 +29,7 @@ Strengthening my knowledge in **Data Structures & Algorithms**, mastering **Reac
 I started with art and now I blend it with code to build interactive and aesthetic digital experiences!
 
 ---
+<br/>
 
 ## 🌐 Connect with Me
 
@@ -47,7 +48,8 @@ I started with art and now I blend it with code to build interactive and aesthet
   </a>
 </p>
 
-
+---
+<br/>
 
 ## 🏆 GitHub Trophies
 
@@ -55,7 +57,8 @@ I started with art and now I blend it with code to build interactive and aesthet
   <img src="https://github-profile-trophy.vercel.app/?username=Ashish27KUMAR&theme=radical&no-frame=false&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
-
+---
+<br/>
 
 ## 💻 Tech Stack
 
@@ -110,6 +113,7 @@ I started with art and now I blend it with code to build interactive and aesthet
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
+<br/>
 
 ## 📊 GitHub Stats
 
